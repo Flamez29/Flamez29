@@ -6,8 +6,7 @@
 - 😄 Pronouns: He/Him/Chosen.
 - ⚡ Fun fact: _Let's play chess all day long_
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Flamez29&theme=dark&border_radius=8.6" alt="GitHub Streak" /></a>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Flamez29&theme=dark&border_radius=8.6)](https://git.io/streak-stats)
 
 🚀 Web Developer | Tech Enthusiast | Lifelong Learner 🌐
 I'm a 17-year-old web developer with over a year of hands-on experience, fascinated by web technologies and eager to make a mark in the tech community. Skilled in Bootstrap, React.js, Tailwind CSS, and PHP, I enjoy building responsive, user-friendly projects and continuously learning new tools and techniques. I’m driven by a passion to create tools that solve real problems and make a positive impact. Let’s connect and shape the future of tech together! #webdevelopment #techcommunity #reactjs #tailwindcss
