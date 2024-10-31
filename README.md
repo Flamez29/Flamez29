@@ -7,7 +7,7 @@
 - ⚡ Fun fact: _Let's play chess all day long_
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=flamez29&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Flamez29&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 🚀 Web Developer | Tech Enthusiast | Lifelong Learner 🌐
