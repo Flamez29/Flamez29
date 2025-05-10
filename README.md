@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">🚀 Web Developer | Tech Enthusiast | Lifelong Learner 🌐<br>I'm a 17-year-old web developer with over a year of hands-on experience, fascinated by web technologies and eager to make a mark in the tech community. Skilled in Bootstrap, React.js, Tailwind CSS, and PHP, I enjoy building responsive, user-friendly projects and continuously learning new tools and techniques. I’m driven by a passion to create tools that solve real problems and make a positive impact. Let’s connect and shape the future of tech together!!!</h4>
+<h4 align="center">🚀 Web Developer | Tech Enthusiast | Lifelong Learner 🌐<br>I'm a 17-year-old web developer with over a year of hands-on experience, fascinated by web technologies and eager to make a mark in the tech community. Skilled in Bootstrap, React.js, Tailwind CSS, and PHP, I enjoy building responsive, user-friendly projects and continuously learning new tools and techniques. I’m driven by a passion to create tools that solve real problems and make a positive impact. Let’s connect and shape the future of tech together!</h4>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&width=800&lines=Fun-Fact%3A+Flamez+loves+money+more+than+he+loves+you%2C+Durrrrr" alt="Typing SVG" /></a>
 ###
