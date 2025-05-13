@@ -1,4 +1,4 @@
-<h2 align="center">Hey there, meet FLAMEZ 👋</h2>
+<h2 align="center">Hey there, meet FLAMEZ 👋 </h2>
 
 ###
 
